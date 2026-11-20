@@ -63,9 +63,9 @@ We organized four NASA orbital instruments into **three physical pillars**:
 When you run the model across South America, the visual output immediately challenges the conventional assumption that the Atacama Desert is the only game in town.
 
 ### Regional View: The Andean Lunar Corridor
-![Top 5% Lunar Analog Heatmap](./mapa_mundi_zoom_1.png)
+![Top 5% Lunar Analog Heatmap](mapa_mundi_zoom_1.png)
 
-Looking at the **Top 5% Lunar Analog Heatmap** (`mapa_mundi_zoom_1.jpg`), almost the entire continent drops out of contention—the Amazon, the Cerrado, the Pampas, and coastal plains are filtered away by moisture and vegetation (with only faint, isolated smudges appearing in drier pockets of Brazil). What lights up in bright yellow is a continuous high-altitude belt running down the central Andes, spanning southern Peru, northern Chile, northwestern Argentina, and—most strikingly—**western Bolivia**.
+Looking at the **Top 5% Lunar Analog Heatmap**, almost the entire continent drops out of contention—the Amazon, the Cerrado, the Pampas, and coastal plains are filtered away by moisture and vegetation (with only faint, isolated smudges appearing in drier pockets of Brazil). What lights up in bright yellow is a continuous high-altitude belt running down the central Andes, spanning southern Peru, northern Chile, northwestern Argentina, and—most strikingly—**western Bolivia**.
 
 ### Local View: Zooming into Oruro and the Lake Poopó Basin
 ![Challapata and Oruro Top 10 Cluster](mapa_mundi_zoom_2.png)
